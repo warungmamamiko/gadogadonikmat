@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Set WhatsApp link
             const phone = document.getElementById('phone').value;
             const whatsappBtn = document.getElementById('whatsapp-btn');
-            whatsappBtn.href = `https://wa.me/6281234567890?text=Halo%20Warung%20Mama%20Miko,%20saya%20baru%20memesan%20dengan%20nomor%20order%20${orderId}`;
+            whatsappBtn.href = `https://wa.me/6287785341233?text=Halo%20Warung%20Mama%20Miko,%20saya%20baru%20memesan%20dengan%20nomor%20order%20${orderId}`;
             
             // Show confirmation modal
             checkoutModal.style.display = 'none';
